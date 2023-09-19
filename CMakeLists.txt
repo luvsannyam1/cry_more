@@ -5,7 +5,7 @@ cmake_minimum_required(VERSION 3.12)
 project(CryOut VERSION 1.0)
 
 # Request C++ 11 standard features
-set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD 13)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 # Compile the passed source files into an executable 
