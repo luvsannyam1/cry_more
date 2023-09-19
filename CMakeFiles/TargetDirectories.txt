@@ -1,0 +1,3 @@
+/home/horus/passionfruit/cry-out/cry-more/CMakeFiles/CryOut.dir
+/home/horus/passionfruit/cry-out/cry-more/CMakeFiles/edit_cache.dir
+/home/horus/passionfruit/cry-out/cry-more/CMakeFiles/rebuild_cache.dir
