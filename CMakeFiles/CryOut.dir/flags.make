@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/horus/passionfruit/cry-out/cry-more/src/includes
 
 CXX_FLAGS = 
 
